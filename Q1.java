@@ -18,7 +18,7 @@ public class Q1 {
         }
         
         System.out.println(c);
-        if(b % 5 == 0 && b % 5 == 0)
+        if(c % 5 == 0 && c % 5 == 0)
         {
             System.out.println("Hello World");
         }
